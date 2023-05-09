@@ -480,7 +480,7 @@
 			},
 			"DatabaseName": {
 				"type": "string",
-				"defaultValue": "sqlpoolsynapsedb"
+				"defaultValue": "sqlpoolsynapse"
 			},
 			"ServerName": {
 				"type": "string",
