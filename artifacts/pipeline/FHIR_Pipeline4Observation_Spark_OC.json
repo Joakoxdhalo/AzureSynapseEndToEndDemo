@@ -230,19 +230,19 @@
 		"parameters": {
 			"StorageName": {
 				"type": "string",
-				"defaultValue": "synapsee2elake"
+				"defaultValue": "adlseusrunt"
 			},
 			"DatabaseName": {
 				"type": "string",
-				"defaultValue": "synapsee2edw"
+				"defaultValue": "sqlpoolsynapse"
 			},
 			"ServerName": {
 				"type": "string",
-				"defaultValue": "synapsee2e"
+				"defaultValue": "synapsewks"
 			},
 			"SparkPoolName": {
 				"type": "string",
-				"defaultValue": "synapsee2espark"
+				"defaultValue": "sprkpoolsynapse"
 			},
 			"DatasetSize": {
 				"type": "string",
