@@ -476,19 +476,19 @@
 		"parameters": {
 			"StorageName": {
 				"type": "string",
-				"defaultValue": "adlseusrunt"
+				"defaultValue": "adlscuscapabrunt"
 			},
 			"DatabaseName": {
 				"type": "string",
-				"defaultValue": "sqlpoolsynapse"
+				"defaultValue": "sqlpoolsyncapab"
 			},
 			"ServerName": {
 				"type": "string",
-				"defaultValue": "synapsewks"
+				"defaultValue": "syncapabwks"
 			},
 			"SparkPoolName": {
 				"type": "string",
-				"defaultValue": "sprkpoolsynapse"
+				"defaultValue": "spkpoolsyncapab"
 			},
 			"DatasetSize": {
 				"type": "string",
