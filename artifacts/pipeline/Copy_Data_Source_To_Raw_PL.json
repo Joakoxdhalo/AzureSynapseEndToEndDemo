@@ -183,7 +183,7 @@
 		"parameters": {
 			"TargetStorageName": {
 				"type": "string",
-				"defaultValue": "adlseusrunt"
+				"defaultValue": "adlscuscapabrunt"
 			},
 			"DatasetSize": {
 				"type": "string",
