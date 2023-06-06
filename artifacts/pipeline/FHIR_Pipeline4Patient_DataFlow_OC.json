@@ -597,7 +597,7 @@
 		"parameters": {
 			"StorageName": {
 				"type": "string",
-				"defaultValue": "adlscuscapabrunt"
+				"defaultValue": "adlscuscapabsynrunt"
 			},
 			"DatabaseName": {
 				"type": "string",
