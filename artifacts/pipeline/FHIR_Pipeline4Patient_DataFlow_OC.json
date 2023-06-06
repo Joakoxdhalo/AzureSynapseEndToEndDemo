@@ -43,12 +43,14 @@
 						},
 						"type": "BigDataPoolReference"
 					},
+					"executorSize": "Small",
 					"conf": {
 						"spark.dynamicAllocation.enabled": null,
-						"spark.dynamicAllocation.minExecutors": null,
-						"spark.dynamicAllocation.maxExecutors": null
+						"spark.dynamicAllocation.minExecutors": 9,
+						"spark.dynamicAllocation.maxExecutors": 9
 					},
-					"numExecutors": null
+					"driverSize": "Small",
+					"numExecutors": 9
 				}
 			},
 			{
@@ -595,19 +597,19 @@
 		"parameters": {
 			"StorageName": {
 				"type": "string",
-				"defaultValue": "synapsee2elake"
+				"defaultValue": "adlscuscapabsynrunt"
 			},
 			"DatabaseName": {
 				"type": "string",
-				"defaultValue": "synapsee2edw"
+				"defaultValue": "sqlpoolsyncapab"
 			},
 			"ServerName": {
 				"type": "string",
-				"defaultValue": "synapsee2e"
+				"defaultValue": "syncapabwks"
 			},
 			"SparkPoolName": {
 				"type": "string",
-				"defaultValue": "synapsee2espark"
+				"defaultValue": "spkpoolsyncapab"
 			},
 			"DatasetSize": {
 				"type": "string",
